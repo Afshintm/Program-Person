@@ -10,7 +10,6 @@ namespace ConsoleApp1
             int Number = Convert.ToInt32(Console.ReadLine());
             PersonTable[] people = new PersonTable[Number];
 
-            Console.WriteLine("Hi");
 
             for (int i=0;i<Number;i++)
 
@@ -26,9 +25,6 @@ namespace ConsoleApp1
 
                 PersonTable p = new PersonTable(Name, Family, Age);
                 people[i] = p;
-
-               
-               
 
             }
 
