@@ -1,18 +1,16 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace Program_Person
 {
-    class ProgramTable
+    class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Please Enter Number of Persons:");
             int Number = Convert.ToInt32(Console.ReadLine());
-            PersonTable[] people = new PersonTable[Number];
-
+            Person[] people = new Person[Number];
 
             for (int i=0;i<Number;i++)
-
             {
                 Console.Write($"Enter Person[{i+1}] name:");
                 string Name=Console.ReadLine();
@@ -23,17 +21,16 @@ namespace ConsoleApp1
                 Console.Write($"Enter Person[{i + 1}] age:");
                 int Age = Convert.ToInt32(Console.ReadLine());
 
-                PersonTable p = new PersonTable(Name, Family, Age);
+                Person p = new Person(Name, Family, Age);
                 people[i] = p;
 
             }
 
             Console.ForegroundColor = ConsoleColor.Green;
 
-            foreach (PersonTable personTable in people)
+            foreach (Person person in people)
             {
-                Console.WriteLine($"Name:{personTable.Name} Family:{personTable.Family} Age:{personTable.Age}");
-
+                Console.WriteLine($"Name:{person.Name} Family:{person.Family} Age:{person.Age}");
             }
 
             Console.ResetColor();

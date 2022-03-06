@@ -1,22 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Program_Person
 {
-    class PersonTable
+    public class Person
     {
         public string Name;
         public string Family;
         public int Age;
 
-        public PersonTable(string Name, String Family, int Age)
+        public Person(string Name, String Family, int Age)
         {
             this.Name = Name;
             this.Family = Family;
             this.Age = Age;
+
+        }
+        public Person()
+        {
 
         }
     }
