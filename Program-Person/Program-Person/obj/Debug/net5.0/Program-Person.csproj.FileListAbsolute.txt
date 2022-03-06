@@ -1,0 +1,16 @@
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\bin\Debug\net5.0\Program-Person.exe
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\bin\Debug\net5.0\Program-Person.deps.json
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\bin\Debug\net5.0\Program-Person.runtimeconfig.json
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\bin\Debug\net5.0\Program-Person.runtimeconfig.dev.json
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\bin\Debug\net5.0\Program-Person.dll
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\bin\Debug\net5.0\ref\Program-Person.dll
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\bin\Debug\net5.0\Program-Person.pdb
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\obj\Debug\net5.0\Program-Person.csproj.AssemblyReference.cache
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\obj\Debug\net5.0\Program-Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\obj\Debug\net5.0\Program-Person.AssemblyInfoInputs.cache
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\obj\Debug\net5.0\Program-Person.AssemblyInfo.cs
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\obj\Debug\net5.0\Program-Person.csproj.CoreCompileInputs.cache
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\obj\Debug\net5.0\Program-Person.dll
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\obj\Debug\net5.0\ref\Program-Person.dll
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\obj\Debug\net5.0\Program-Person.pdb
+C:\Users\afshintm\source\repos\Saeid\Program-Person\Program-Person\Program-Person\obj\Debug\net5.0\Program-Person.genruntimeconfig.cache
