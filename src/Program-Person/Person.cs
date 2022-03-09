@@ -19,5 +19,11 @@ namespace Program_Person
         {
 
         }
+        public override string ToString()
+        {
+            //return base.ToString();
+            return  "I am " + Name +" "+Family+" and " + Age.ToString()+" years old." ;
+        }
     }
+    
 }
